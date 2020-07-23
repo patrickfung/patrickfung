@@ -1,6 +1,5 @@
 <h2 align="center">Hi there 👋, Nice to meet you.</h2>
 <h3 align="center">I am the Researcher@Greenblock</h3>
-- 🔭 I’m currently working on cybersecurity framework enhancement for our business.
 
 - 📫 You could reach me by<br>
   Greenblock: **patrick@greenblock.tw**<br>
