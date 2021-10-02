@@ -2,4 +2,4 @@
 
 - 📫 Please reach me by<br>
   Greenblock: **patrick@greenblock.tw**<br>
-  Just Move: **patrick@justmove.hk**<br>
+  Just Move Limited: **patrick@justmove.hk**<br>
